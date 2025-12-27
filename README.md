@@ -20,16 +20,6 @@ Concepts Used:
 - Lambda expressions
 - Clear separation of interface (.h) and implementation (.cpp)
 
-Project Structure:
-student-db-cli/
-├── src/
-│   ├── main.cpp              CLI menu and program flow
-│   ├── StudentDatabase.h     Class definitions
-│   └── StudentDatabase.cpp   Core logic and persistence
-├── data/
-│   └── students.txt          Stored student records
-├── .gitignore
-└── README.md
 
 Build Instructions:
 Compile the project using:
